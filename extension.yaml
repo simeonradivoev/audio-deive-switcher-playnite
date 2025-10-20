@@ -1,7 +1,7 @@
 ﻿Id: AudioDeviceSwitcher_4b207713-1cad-4236-8fb1-4e0ae60a75e3
 Name: AudioDeviceSwitcher
 Author: Simeon Radivoev
-Version: 1.0
+Version: 1.0.0
 Module: AudioDeviceSwitcher.dll
 Type: GenericPlugin
 Icon: icon.png
