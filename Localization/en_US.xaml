@@ -1,0 +1,14 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+    <sys:String x:Key="ADSPluginErrorSwitching">Error switching audio device: {0}</sys:String>
+    <sys:String x:Key="ADSPluginTitle">Audio Device Switcher</sys:String>
+    <sys:String x:Key="ADSPluginFailedToSwitch">Failed to change audio device.</sys:String>
+    <sys:String x:Key="ADSPluginSwitched">Audio device changed to: {0}</sys:String>
+    <sys:String x:Key="ADSPluginNoAudioDevice">No audio devices found.</sys:String>
+    <sys:String x:Key="ADSPluginEnableFullscreenSwitching">Enable audio device switching on Fullscreen mode</sys:String>
+    <sys:String x:Key="ADSPluginFullscreenSwitchingTitle">Fullscreen Audio Device Switching</sys:String>
+    <sys:String x:Key="ADSPluginFullscreenDeviceLabel">Device to switch to in Fullscreen:</sys:String>
+    <sys:String x:Key="ADSPluginFullscreenExitTip">The device will be switched back to the previous one when exiting Fullscreen mode.</sys:String>
+    <sys:String x:Key="ADSPluginSwitchCurrentAudioDevice">Switch Audio Device</sys:String>
+</ResourceDictionary>
