@@ -1,7 +1,7 @@
 ﻿<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Package" type="RunExe" factoryName=".NET Executable" activateToolWindowBeforeRun="false" singleton="false">
+  <configuration default="false" name="Package" type="RunExe" factoryName=".NET Executable" singleton="true">
     <option name="EXE_PATH" value="$USER_HOME$/AppData/Local/Playnite/Toolbox.exe" />
-    <option name="PROGRAM_PARAMETERS" value="pack &quot;$PROJECT_DIR$&quot; &quot;$PROJECT_DIR$/bin/Packed&quot;" />
+    <option name="PROGRAM_PARAMETERS" value="pack &quot;$PROJECT_DIR$/bin/Release&quot; &quot;$PROJECT_DIR$/bin/Packed&quot;" />
     <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Playnite" />
     <option name="PASS_PARENT_ENVS" value="1" />
     <option name="USE_EXTERNAL_CONSOLE" value="0" />
